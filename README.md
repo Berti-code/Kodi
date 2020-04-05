@@ -17,5 +17,4 @@ The metadata that Plex collected from it's internet sources for an episode:
 ![]()
 
 From the server you can see all the clients that are curently streaming from your library:
-
 ![](/Screenshot_2020-04-05.png)
